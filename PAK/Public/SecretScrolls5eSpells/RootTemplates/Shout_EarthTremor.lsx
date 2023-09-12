@@ -6,7 +6,7 @@
 			<children>
 				<node id="GameObjects">
 					<attribute id="DisplayName" type="TranslatedString" handle="b4e2a855-125a-48dd-a1c6-310a9732ca49" version="1"/>
-					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_Base"/>
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_EarthTremor"/>
 					<attribute id="LevelName" type="FixedString" value=""/>
 					<attribute id="MapKey" type="FixedString" value="c6e7624c-b67b-43f8-bd67-f7db6ba54421"/>
 					<attribute id="Name" type="LSString" value=""/>
