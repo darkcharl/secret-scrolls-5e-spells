@@ -149,28 +149,28 @@
                     <attribute id="V2" type="float" value="0.03125"/> 
                 </node>
 				<node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_ThornWhip"/> 
+                    <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_ThunderClap"/> 
                     <attribute id="U1" type="float" value="0.5625"/> 
                     <attribute id="U2" type="float" value="0.59375"/> 
                     <attribute id="V1" type="float" value="0.0"/> 
                     <attribute id="V2" type="float" value="0.03125"/> 
                 </node>	
 				<node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_ThunderClap"/>
+                    <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_TollTheDead"/>
                     <attribute id="U1" type="float" value="0.59375"/>
                     <attribute id="U2" type="float" value="0.625"/> 
                     <attribute id="V1" type="float" value="0.0"/> 
                     <attribute id="V2" type="float" value="0.03125"/> 
                 </node>
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_TollTheDead"/>
+                    <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_WordOfRadiance"/>
                     <attribute id="U1" type="float" value="0.625"/>
                     <attribute id="U2" type="float" value="0.65625"/>
                     <attribute id="V1" type="float" value="0.0"/>
                     <attribute id="V2" type="float" value="0.03125"/>
                 </node>		
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_WordOfRadiance"/>
+                    <attribute id="MapKey" type="FixedString" value=""/>
                     <attribute id="U1" type="float" value="0.65625"/>
                     <attribute id="U2" type="float" value="0.6875"/>
                     <attribute id="V1" type="float" value="0.0"/>
