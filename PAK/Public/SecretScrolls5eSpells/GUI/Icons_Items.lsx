@@ -121,7 +121,7 @@
                     <attribute id="V2" type="float" value="0.03125"/> 
                 </node>
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_SappingString"/> 
+                    <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_SappingSting"/> 
                     <attribute id="U1" type="float" value="0.4375"/> 
                     <attribute id="U2" type="float" value="0.46875"/> 
                     <attribute id="V1" type="float" value="0.0"/> 
