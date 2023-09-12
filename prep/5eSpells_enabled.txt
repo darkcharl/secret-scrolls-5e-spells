@@ -101,7 +101,6 @@ Target_ThornWhip
 Target_TollTheDead
 Target_TrueResurrection
 Target_UnseenServant
-Target_ViciousMockery
 Target_VortexWarp
 Target_WitherAndBloom
 Teleportation_ThunderStep
