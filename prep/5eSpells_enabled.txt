@@ -97,7 +97,6 @@ Target_SummonElemental
 Target_SummonShadowspawn
 Target_SynapticStatic
 Target_TashasMindWhip
-Target_ThornWhip
 Target_TollTheDead
 Target_TrueResurrection
 Target_UnseenServant
