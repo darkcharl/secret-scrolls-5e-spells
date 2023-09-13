@@ -6,7 +6,7 @@
 			<children>
 				<node id="GameObjects">
 					<attribute id="DisplayName" type="TranslatedString" handle="cb893334-6965-4be9-b3a4-91539d93a3d6" version="1"/>
-					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_Base"/>
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_MaximiliansEarthenGrasp"/>
 					<attribute id="LevelName" type="FixedString" value=""/>
 					<attribute id="MapKey" type="FixedString" value="df591f11-9f79-4dfe-a2f4-7f811a84a19b"/>
 					<attribute id="Name" type="LSString" value=""/>
