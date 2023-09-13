@@ -6,7 +6,7 @@
 			<children>
 				<node id="GameObjects">
 					<attribute id="DisplayName" type="TranslatedString" handle="7691ed26-c1e5-45ad-bc0c-dc46be5e02a0" version="1"/>
-					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_Base"/>
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_AganazzarsScorcher"/>
 					<attribute id="LevelName" type="FixedString" value=""/>
 					<attribute id="MapKey" type="FixedString" value="cbb1bb19-08e6-4965-8805-e312780b421a"/>
 					<attribute id="Name" type="LSString" value=""/>
