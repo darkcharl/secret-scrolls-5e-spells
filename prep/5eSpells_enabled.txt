@@ -58,7 +58,6 @@ Target_Gust
 Target_HealingSpirit
 Target_HolyWeapon
 Target_IntellectFortress
-Target_Levitate
 Target_LifeTransference
 Target_LightningLure
 Target_MaddeningDarkness

@@ -539,91 +539,91 @@
                     <attribute id="V2" type="float" value="0.09375"/>
                 </node>		
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_Levitate"/>
+                    <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_MaximiliansEarthenGrasp"/>
                     <attribute id="U1" type="float" value="0.28125"/>
                     <attribute id="U2" type="float" value="0.3125"/>
                     <attribute id="V1" type="float" value="0.0625"/>
                     <attribute id="V2" type="float" value="0.09375"/>
                 </node>		
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_MaximiliansEarthenGrasp"/>
+                    <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_MindSpike"/>
                     <attribute id="U1" type="float" value="0.3125"/>
                     <attribute id="U2" type="float" value="0.34375"/>
                     <attribute id="V1" type="float" value="0.0625"/>
                     <attribute id="V2" type="float" value="0.09375"/>
                 </node>		
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_MindSpike"/>
+                    <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_NathairsMischief"/>
                     <attribute id="U1" type="float" value="0.34375"/>
                     <attribute id="U2" type="float" value="0.375"/>
                     <attribute id="V1" type="float" value="0.0625"/>
                     <attribute id="V2" type="float" value="0.09375"/>
                 </node>	
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_NathairsMischief"/>
+                    <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_RimesBindingIce"/>
                     <attribute id="U1" type="float" value="0.375"/>
                     <attribute id="U2" type="float" value="0.40625"/>
                     <attribute id="V1" type="float" value="0.0625"/>
                     <attribute id="V2" type="float" value="0.09375"/>
                 </node>		
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_RimesBindingIce"/>
+                    <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_ShadowBlade"/>
                     <attribute id="U1" type="float" value="0.40625"/>
                     <attribute id="U2" type="float" value="0.4375"/>
                     <attribute id="V1" type="float" value="0.0625"/>
                     <attribute id="V2" type="float" value="0.09375"/>
                 </node>	
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_ShadowBlade"/>
+                    <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_SnillocsSnowballStorm"/>
                     <attribute id="U1" type="float" value="0.4375"/>
                     <attribute id="U2" type="float" value="0.46875"/>
                     <attribute id="V1" type="float" value="0.0625"/>
                     <attribute id="V2" type="float" value="0.09375"/>	
                 </node>	
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_SnillocsSnowballStorm"/>
+                    <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_Suggestion"/>
                     <attribute id="U1" type="float" value="0.46875"/>
                     <attribute id="U2" type="float" value="0.5"/>
                     <attribute id="V1" type="float" value="0.0625"/>
                     <attribute id="V2" type="float" value="0.09375"/>	
                 </node>	
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_Suggestion"/>
+                    <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_SummonBeast"/>
                     <attribute id="U1" type="float" value="0.5"/>
                     <attribute id="U2" type="float" value="0.53125"/>
                     <attribute id="V1" type="float" value="0.0625"/>
                     <attribute id="V2" type="float" value="0.09375"/>		
                 </node>	
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_SummonBeast"/>
+                    <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_TashasMindWhip"/>
                     <attribute id="U1" type="float" value="0.53125"/>
                     <attribute id="U2" type="float" value="0.5625"/>
                     <attribute id="V1" type="float" value="0.0625"/>
                     <attribute id="V2" type="float" value="0.09375"/>	
                 </node>	
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_TashasMindWhip"/>
+                    <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_VortexWarp"/>
                     <attribute id="U1" type="float" value="0.5625"/>
                     <attribute id="U2" type="float" value="0.59375"/>
                     <attribute id="V1" type="float" value="0.0625"/>
                     <attribute id="V2" type="float" value="0.09375"/>		
                 </node>	
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_VortexWarp"/>
+                    <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_WardingWind"/>
                     <attribute id="U1" type="float" value="0.59375"/>
                     <attribute id="U2" type="float" value="0.625"/>
                     <attribute id="V1" type="float" value="0.0625"/>
                     <attribute id="V2" type="float" value="0.09375"/>			
                 </node>	
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_WardingWind"/>
+                    <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_WitherAndBloom"/>
                     <attribute id="U1" type="float" value="0.625"/>
                     <attribute id="U2" type="float" value="0.65625"/>
                     <attribute id="V1" type="float" value="0.0625"/>
                     <attribute id="V2" type="float" value="0.09375"/>	
                 </node>	
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_WitherAndBloom"/>
+                    <attribute id="MapKey" type="FixedString" value=""/>
                     <attribute id="U1" type="float" value="0.65625"/>
                     <attribute id="U2" type="float" value="0.6875"/>
                     <attribute id="V1" type="float" value="0.0625"/>
