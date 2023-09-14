@@ -6,7 +6,7 @@
 			<children>
 				<node id="GameObjects">
 					<attribute id="DisplayName" type="TranslatedString" handle="226fc312-363e-43ce-a9d0-bd1f42e5b396" version="1"/>
-					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_Base"/>
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_AshardalonsStride"/>
 					<attribute id="LevelName" type="FixedString" value=""/>
 					<attribute id="MapKey" type="FixedString" value="ed19b0fc-66a7-47fe-b706-9834c5d0a1b1"/>
 					<attribute id="Name" type="LSString" value=""/>
