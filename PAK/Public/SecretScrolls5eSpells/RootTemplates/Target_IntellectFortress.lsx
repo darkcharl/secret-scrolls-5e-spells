@@ -6,7 +6,7 @@
 			<children>
 				<node id="GameObjects">
 					<attribute id="DisplayName" type="TranslatedString" handle="cd1f05a6-b484-4142-9521-2cdc2d0e31cf" version="1"/>
-					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_Base"/>
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_IntellectFortress"/>
 					<attribute id="LevelName" type="FixedString" value=""/>
 					<attribute id="MapKey" type="FixedString" value="bcc2e6b2-188c-40dd-9d68-64cd6e5be4d3"/>
 					<attribute id="Name" type="LSString" value=""/>
