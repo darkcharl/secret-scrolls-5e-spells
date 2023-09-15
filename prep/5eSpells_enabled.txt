@@ -10,7 +10,6 @@ Shout_DetectMagic
 Shout_Druidcraft
 Shout_EarthTremor
 Shout_GuardianOfNature
-Shout_HolyAura
 Shout_KineticJaunt
 Shout_ShadowBlade
 Shout_SpiritShroud
