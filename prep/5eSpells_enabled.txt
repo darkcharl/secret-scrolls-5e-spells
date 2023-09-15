@@ -15,7 +15,6 @@ Shout_ShadowBlade
 Shout_SpiritShroud
 Shout_SwiftQuiver
 Shout_SwordBurst
-Shout_Teleport
 Shout_TemporalShunt
 Shout_Thunderclap
 Shout_TimeStop
