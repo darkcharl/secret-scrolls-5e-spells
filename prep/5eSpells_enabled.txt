@@ -52,7 +52,6 @@ Target_HolyWeapon
 Target_IntellectFortress
 Target_LifeTransference
 Target_LightningLure
-Target_MaddeningDarkness
 Target_MagicStone
 Target_MagnifyGravity
 Target_MassHeal
