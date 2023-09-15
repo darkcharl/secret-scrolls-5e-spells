@@ -78,7 +78,6 @@ Target_SummonShadowspawn
 Target_SynapticStatic
 Target_TashasMindWhip
 Target_TollTheDead
-Target_TrueResurrection
 Target_UnseenServant
 Target_VortexWarp
 Target_WitherAndBloom
