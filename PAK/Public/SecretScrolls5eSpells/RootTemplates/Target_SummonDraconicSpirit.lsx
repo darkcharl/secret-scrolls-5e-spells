@@ -6,7 +6,7 @@
 			<children>
 				<node id="GameObjects">
 					<attribute id="DisplayName" type="TranslatedString" handle="ca3a73a3-eb38-4bf4-8b65-c2e0793c9ce8" version="1"/>
-					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_Base"/>
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_SummonDraconicSpirit"/>
 					<attribute id="LevelName" type="FixedString" value=""/>
 					<attribute id="MapKey" type="FixedString" value="d02ee9b4-ad35-4ee1-ac70-628edc29a108"/>
 					<attribute id="Name" type="LSString" value=""/>
