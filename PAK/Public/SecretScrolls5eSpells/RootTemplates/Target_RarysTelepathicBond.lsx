@@ -6,7 +6,7 @@
 			<children>
 				<node id="GameObjects">
 					<attribute id="DisplayName" type="TranslatedString" handle="8c0434e0-a87d-425d-9d56-05c2b6cd8bbd" version="1"/>
-					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_Base"/>
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_RarysTelepathicBond"/>
 					<attribute id="LevelName" type="FixedString" value=""/>
 					<attribute id="MapKey" type="FixedString" value="f540cb36-3aee-4307-99ea-fc45b39b15c9"/>
 					<attribute id="Name" type="LSString" value=""/>
