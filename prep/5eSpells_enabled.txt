@@ -6,7 +6,6 @@ Shout_AbsorbElements
 Shout_AshardalonsStride
 Shout_BorrowedKnowledge
 Shout_CommuneWithNature
-Shout_CrownOfStars
 Shout_DetectMagic
 Shout_Druidcraft
 Shout_EarthTremor
