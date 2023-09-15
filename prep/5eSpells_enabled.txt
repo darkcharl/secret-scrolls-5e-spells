@@ -32,7 +32,6 @@ Target_CauseFear
 Target_Ceremony
 Target_ChaosBolt
 Target_CharmMonster
-Target_Confusion
 Target_ContinualFlame
 Target_ControlFlames
 Target_CreateBonfire
