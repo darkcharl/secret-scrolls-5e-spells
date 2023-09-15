@@ -40,7 +40,6 @@ Target_DustDevil
 Target_EnemiesAbound
 Target_EruptingEarth
 Target_FarStep
-Target_FingerOfDeath
 Target_FlameArrows
 Target_FlockOfFamiliars
 Target_Foresight
