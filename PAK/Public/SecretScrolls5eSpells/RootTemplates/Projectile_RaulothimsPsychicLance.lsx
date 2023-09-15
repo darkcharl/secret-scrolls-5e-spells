@@ -6,7 +6,7 @@
 			<children>
 				<node id="GameObjects">
 					<attribute id="DisplayName" type="TranslatedString" handle="3048fc3f-602b-4812-be0b-6a561e775c11" version="1"/>
-					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_Base"/>
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_RaulothimsPsychicLance"/>
 					<attribute id="LevelName" type="FixedString" value=""/>
 					<attribute id="MapKey" type="FixedString" value="8eb8e132-6e94-4caf-ab98-b51ad37df999"/>
 					<attribute id="Name" type="LSString" value=""/>
