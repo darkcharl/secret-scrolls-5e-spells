@@ -35,7 +35,6 @@ Target_ContinualFlame
 Target_ControlFlames
 Target_CreateBonfire
 Target_CreateFoodAndWater
-Target_DominateMonster
 Target_DragonsBreath
 Target_DustDevil
 Target_EnemiesAbound
