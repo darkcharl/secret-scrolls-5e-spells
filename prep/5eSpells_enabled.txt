@@ -54,7 +54,6 @@ Target_LifeTransference
 Target_LightningLure
 Target_MagicStone
 Target_MagnifyGravity
-Target_MassHeal
 Target_MaximiliansEarthenGrasp
 Target_MindBlank
 Target_MindSliver
