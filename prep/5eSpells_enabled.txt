@@ -55,7 +55,6 @@ Target_LightningLure
 Target_MagicStone
 Target_MagnifyGravity
 Target_MaximiliansEarthenGrasp
-Target_MindBlank
 Target_MindSliver
 Target_MindSpike
 Target_MoldEarth
