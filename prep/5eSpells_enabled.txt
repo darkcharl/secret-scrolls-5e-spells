@@ -65,7 +65,6 @@ Target_Prestidigitation
 Target_PrimalSavagery
 Target_RaiseDead
 Target_RarysTelepathicBond
-Target_Resurrection
 Target_SappingSting
 Target_ShapeWater
 Target_SkillEmpowerment
