@@ -42,7 +42,6 @@ Target_EruptingEarth
 Target_FarStep
 Target_FlameArrows
 Target_FlockOfFamiliars
-Target_Foresight
 Target_FortunesFavor
 Target_Frostbite
 Target_GiftOfAlacrity
