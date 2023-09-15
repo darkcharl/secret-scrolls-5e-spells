@@ -6,7 +6,7 @@
 			<children>
 				<node id="GameObjects">
 					<attribute id="DisplayName" type="TranslatedString" handle="e65ed8f7-9c4c-4e37-892e-b878ed993c67" version="1"/>
-					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_Base"/>
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_SwiftQuiver"/>
 					<attribute id="LevelName" type="FixedString" value=""/>
 					<attribute id="MapKey" type="FixedString" value="82cb27c4-3eb7-4247-9b23-dd731fce7bb4"/>
 					<attribute id="Name" type="LSString" value=""/>
