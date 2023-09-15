@@ -61,7 +61,6 @@ Target_MoldEarth
 Target_MotivationalSpeech
 Target_NathairsMischief
 Target_Nondetection
-Target_PowerWordHeal
 Target_PowerWordStun
 Target_Prestidigitation
 Target_PrimalSavagery
