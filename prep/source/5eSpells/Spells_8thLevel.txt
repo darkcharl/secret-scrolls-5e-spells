@@ -132,7 +132,7 @@ data "TargetConditions" "Character() and HasStatus('HOLY_AURA_ENEMY')"
 data "Trajectories" "c63c4527-1bdf-4635-ad59-7d7e2f666fa3"
 data "CastTextEvent" "Cast"
 
-ew entry "Target_MaddeningDarkness"
+new entry "Target_MaddeningDarkness"
 type "SpellData"
 data "SpellType" "Target"
 data "Level" "8"
