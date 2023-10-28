@@ -1,11 +1,11 @@
 {
   "mods": [
     {
-      "modName": "SecretScrolls-5eSpells",
+      "modName": "SecretScrolls5eSpells",
       "UUID": "b093bc44-ccf9-4eec-b5ec-e96a6f2940f9",
-      "folderName": "SecretScrolls-5eSpells",
+      "folderName": "SecretScrolls5eSpells",
       "Description": "Secret Scrolls for 5e Spells",
-      "version": "1.2.0.0",
+      "version": "1.2.0.1",
       "MD5": ""
     }
   ]
