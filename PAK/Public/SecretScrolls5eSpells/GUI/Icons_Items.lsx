@@ -355,7 +355,7 @@
                     <attribute id="V2" type="float" value="0.0625"/>			
                 </node>	
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value=""/>
+                    <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_AlterSelf"/>
                     <attribute id="U1" type="float" value="0.46875"/>
                     <attribute id="U2" type="float" value="0.5"/>
                     <attribute id="V1" type="float" value="0.03125"/>
@@ -1380,7 +1380,7 @@
 
                 <!-- Level 6 Spells -->
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value=""/>
+                    <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_TrueSeeing"/>
                     <attribute id="U1" type="float" value="0.0"/>
                     <attribute id="U2" type="float" value="0.03125"/>
                     <attribute id="V1" type="float" value="0.1875"/>
@@ -1606,14 +1606,14 @@
 
                 <!-- Level 7 Spells -->
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value=""/>
+                    <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_FingerOfDeath"/>
                     <attribute id="U1" type="float" value="0.0"/>
                     <attribute id="U2" type="float" value="0.03125"/>
                     <attribute id="V1" type="float" value="0.21875"/>
                     <attribute id="V2" type="float" value="0.25"/>
                 </node>		
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value=""/>
+                    <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_Regenerate"/>
                     <attribute id="U1" type="float" value="0.03125"/>
                     <attribute id="U2" type="float" value="0.0625"/>
                     <attribute id="V1" type="float" value="0.21875"/>
@@ -1839,7 +1839,7 @@
                     <attribute id="V2" type="float" value="0.28125"/>
                 </node>		
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_FeebleMind"/>
+                    <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_Feeblemind"/>
                     <attribute id="U1" type="float" value="0.03125"/>
                     <attribute id="U2" type="float" value="0.0625"/>
                     <attribute id="V1" type="float" value="0.25"/>
