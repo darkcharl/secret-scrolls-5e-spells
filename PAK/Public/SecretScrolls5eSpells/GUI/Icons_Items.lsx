@@ -248,7 +248,7 @@
                     <attribute id="V2" type="float" value="0.03125"/>
                 </node>
 
-                <!-- 1st Level Spells -->
+                <!-- Level 1 Spells -->
                 <node id="IconUV">
                     <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_AbsorbElements"/>
                     <attribute id="U1" type="float" value="0.0"/>
@@ -474,7 +474,7 @@
                     <attribute id="V2" type="float" value="0.0625"/>	
                 </node>
 
-                <!-- 2nd Level Spells -->
+                <!-- Level 2 Spells -->
                 <node id="IconUV">
                     <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_AganazzarsScorcher"/>
                     <attribute id="U1" type="float" value="0.0"/>
@@ -1376,7 +1376,9 @@
                     <attribute id="U2" type="float" value="1.0"/>
                     <attribute id="V1" type="float" value="0.15625"/>
                     <attribute id="V2" type="float" value="0.1875"/>
-                </node>		
+                </node>
+
+                <!-- Level 6 Spells -->
                 <node id="IconUV">
                     <attribute id="MapKey" type="FixedString" value=""/>
                     <attribute id="U1" type="float" value="0.0"/>
@@ -1601,6 +1603,8 @@
                     <attribute id="V1" type="float" value="0.1875"/>
                     <attribute id="V2" type="float" value="0.21875"/>
                 </node>
+
+                <!-- Level 7 Spells -->
                 <node id="IconUV">
                     <attribute id="MapKey" type="FixedString" value=""/>
                     <attribute id="U1" type="float" value="0.0"/>
@@ -1824,7 +1828,9 @@
                     <attribute id="U2" type="float" value="1.0"/>
                     <attribute id="V1" type="float" value="0.21875"/>
                     <attribute id="V2" type="float" value="0.25"/>
-                </node>	
+                </node>
+
+                <!-- Level 8 Spells -->
                 <node id="IconUV">
                     <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_DominateMonster"/>
                     <attribute id="U1" type="float" value="0.0"/>
@@ -2048,9 +2054,11 @@
                     <attribute id="U2" type="float" value="1.0"/>
                     <attribute id="V1" type="float" value="0.25"/>
                     <attribute id="V2" type="float" value="0.28125"/>
-                </node>	
+                </node>
+
+                <!-- Level 9 Spells -->
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value=""/>
+                    <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_PowerWordKill"/>
                     <attribute id="U1" type="float" value="0.0"/>
                     <attribute id="U2" type="float" value="0.03125"/>
                     <attribute id="V1" type="float" value="0.28125"/>
