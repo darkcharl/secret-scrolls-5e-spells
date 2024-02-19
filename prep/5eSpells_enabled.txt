@@ -1,7 +1,6 @@
 Projectile_MinuteMeteors
 Projectile_NegativeEnergyFlood
 Projectile_RaulothimsPsychicLance
-Projectile_SwiftQuiver
 ProjectileStrike_ConjureVolley
 Shout_AbsorbElements
 Shout_AlterSelf
