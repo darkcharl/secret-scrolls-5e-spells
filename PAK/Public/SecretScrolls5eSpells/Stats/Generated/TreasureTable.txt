@@ -1,38 +1,3 @@
-new treasuretable "S_LOW_BuriedChest_02"
-CanMerge 1
-new subtable "1,1"
-object category "MagicScroll_7",1,0,0,0,0,0,0,0
-
-new treasuretable "S_LOW_BuriedChest_03"
-CanMerge 1
-new subtable "1,1"
-object category "MagicScroll_7",1,0,0,0,0,0,0,0
-
-new treasuretable "S_LOW_BuriedChest_04"
-CanMerge 1
-new subtable "1,1"
-object category "MagicScroll_7",1,0,0,0,0,0,0,0
-
-new treasuretable "S_LOW_BuriedChest_05"
-CanMerge 1
-new subtable "1,1"
-object category "MagicScroll_7",1,0,0,0,0,0,0,0
-
-new treasuretable "S_LOW_BuriedChest_10"
-CanMerge 1
-new subtable "1,1"
-object category "MagicScroll_7",1,0,0,0,0,0,0,0
-
-new treasuretable "S_LOW_BuriedChest_11"
-CanMerge 1
-new subtable "1,1"
-object category "MagicScroll_7",1,0,0,0,0,0,0,0
-
-new treasuretable "S_LOW_BuriedChest_12"
-CanMerge 1
-new subtable "1,1"
-object category "MagicScroll_7",1,0,0,0,0,0,0,0
-
 new treasuretable "LOW_CountingHouse_HighSecurityVault_8"
 CanMerge 1
 new subtable "1,1"
