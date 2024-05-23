@@ -18,6 +18,7 @@ Shout_SpiritShroud
 Shout_SwiftQuiver
 Shout_SwordBurst
 Shout_TemporalShunt
+Shout_TensersTransformation
 Shout_Thunderclap
 Shout_WardingWind
 Shout_WaterWalk
