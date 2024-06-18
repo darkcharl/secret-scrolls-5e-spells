@@ -59,6 +59,13 @@ data "TooltipUpcastDescription" ""
 data "UseCosts" "ActionPoint:1"
 data "SpellFlags" "Temporary"
 
+new entry "Target_DominateMonster_TotalControl_2"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_DominateMonster_TotalControl"
+data "AmountOfTargets" "2"
+data "SpellFlags" "Temporary;IgnorePreviouslyPickedEntities"
+
 new entry "Target_Feeblemind"
 type "SpellData"
 data "SpellType" "Target"
