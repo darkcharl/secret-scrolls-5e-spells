@@ -20,7 +20,7 @@ def prepare_object(t, spell):
         if scroll_attribute['@id'] == 'DisplayName':
             scroll_attribute['@handle'] = str(uuid.uuid4())
         elif scroll_attribute['@id'] == 'Icon':
-            scroll_attribute['@value'] = 'Item_LOOT_SCROLL_Base'
+            scroll_attribute['@value'] = f"Item_LOOT_SCROLL_{short_spell_name(spell)}"
         elif scroll_attribute['@id'] == 'MapKey':
             scroll_attribute['@value'] = str(uuid.uuid4())
         elif scroll_attribute['@id'] == 'Stats':

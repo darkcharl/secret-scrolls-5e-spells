@@ -11,7 +11,7 @@
 					<attribute id="SRGB" type="bool" value="True" />
 					<attribute id="SourceFile" type="LSString" value="Public/SecretScrolls5eSpells/Assets/Textures/Icons/Icons_SecretScrolls5eSpells.dds" />
 					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="Icons_Items" />
+					<attribute id="Template" type="FixedString" value="Icons_SecretScrolls5eSpells" />
 					<attribute id="Type" type="int32" value="0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855873" />
 				</node>
