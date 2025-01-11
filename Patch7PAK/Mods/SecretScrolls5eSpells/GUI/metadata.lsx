@@ -1,0 +1,1964 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="7" revision="1" build="3" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="config">
+		<node id="config">
+			<children>
+				<node id="entries">
+					<children>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_AbsorbElements.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_AganazzarsScorcher.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_AlterSelf.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_Antagonize.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_AshardalonsStride.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_BeastBond.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_BoomingBlade.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_BorrowedKnowledge.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_Catapult.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_Catnap.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_CauseFear.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_Ceremony.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_CharmMonster.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_CommuneWithNature.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_ConjureVolley.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_ContinualFlame.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_ControlFlames.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_CreateBonfire.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_CreateFoodAndWater.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_DetectEvilAndGood.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_DetectMagic.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_DragonsBreath.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_Druidcraft.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_DustDevil.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_EarthTremor.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_EnemiesAbound.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_EruptingEarth.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_FarStep.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_FlameArrows.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_FlockOfFamiliars.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_FortunesFavor.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_Frostbite.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_FrostFingers.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_GiftOfAlacrity.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_GravitySinkhole.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_GreenFlameBlade.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_GuardianOfNature.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_Gust.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_HealingSpirit.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_HolyWeapon.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_Infestation.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_IntellectFortress.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_KineticJaunt.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_LifeTransference.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_LightningLure.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_MagicCircle.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_MagicStone.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_MagnifyGravity.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_MaximiliansEarthenGrasp.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_MindSliver.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_MindSpike.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_MinuteMeteors.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_MoldEarth.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_MotivationalSpeech.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_NathairsMischief.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_NegativeEnergyFlood.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_Nondetection.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_Prestidigitation.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_PrimalSavagery.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_PulseWave.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_RaiseDead.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_RarysTelepathicBond.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_RaulothimsPsychicLance.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_RimesBindingIce.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_SappingSting.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_ShadowBlade.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_ShadowOfMoil.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_ShapeWater.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_SkillEmpowerment.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_Snare.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_SnillocsSnowballStorm.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_SpareTheDying.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_SpiritShroud.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_SteelWindStrike.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_Suggestion.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_SummonBeast.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_SummonDraconicSpirit.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_SummonElemental.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_SummonShadowspawn.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_SwiftQuiver.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_SwordBurst.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_SynapticStatic.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_TashasCausticBrew.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_TashasMindWhip.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_TemporalShunt.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_TensersTransformation.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_ThunderClap.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_ThunderStep.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_TollTheDead.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_TrueSeeing.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_UnseenServant.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_VortexWarp.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_WardingWind.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_WaterWalk.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_WitherAndBloom.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_WordOfRadiance.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_ZephyrStrike.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_AbsorbElements.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_AganazzarsScorcher.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_AlterSelf.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_Antagonize.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_AshardalonsStride.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_BeastBond.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_BoomingBlade.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_BorrowedKnowledge.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_Catapult.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_Catnap.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_CauseFear.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_Ceremony.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_CharmMonster.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_CommuneWithNature.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_ConitnualFlame.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_ConjureVolley.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_ContinualFlame.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_ControlFlames.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_CreateBonfire.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_CreateFoodAndWater.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_DetectEvilAndGood.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_DetectMagic.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_DragonsBreath.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_Druidcraft.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_DustDevil.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_EarthTremor.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_EnemiesAbound.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_EruptingEarth.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_FarStep.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_FlameArrows.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_FlockOfFamiliars.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_FortunesFavor.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_Frostbite.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_FrostFingers.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_GiftOfAlacrity.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_GravitySinkhole.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_GreenFlameBlade.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_GuardianOfNature.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_Gust.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_HealingSpirit.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_HolyWeapon.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_Infestation.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_IntellectFortress.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_KineticJaunt.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_LifeTransference.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_LightningLure.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_MagicCircle.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_MagicStone.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_MagnifyGravity.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_MaximiliansEarthenGrasp.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_MindSliver.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_MindSpike.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_MinuteMeteors.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_MoldEarth.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_MotivationalSpeech.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_NathairsMischief.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_NegativeEnergyFlood.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_Nondetection.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_Prestidigitation.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_PrimalSavagery.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_PulseWave.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_RaiseDead.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_RarysTelepathicBond.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_RaulothimsPsychicLance.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_RimesBindingIce.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_SappingSting.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_ShadowBlade.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_ShadowOfMoil.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_ShapeWater.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_SkillEmpowerment.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_Snare.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_SnillocsSnowballStorm.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_SpareTheDying.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_SpiritShroud.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_SteelWindStrike.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_Suggestion.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_SummonBeast.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_SummonDraconicSpirit.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_SummonElemental.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_SummonShadowspawn.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_SwiftQuiver.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_SwordBurst.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_SynapticStatic.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_TashasCausticBrew.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_TashasMindWhip.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_TemporalShunt.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_TensersTransformation.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_ThunderClap.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_ThunderStep.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_TollTheDead.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_TrueSeeing.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_UnseenServant.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_VortexWarp.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_WardingWind.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_WaterWalk.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_WitherAndBloom.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_WordOfRadiance.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="SecretScrolls5eSpells/Patch7PAK/Public/Game/GUI/Assets/ControllerUIIcons/items_png/Item_LOOT_SCROLL_ZephyrStrike.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
